@@ -1,0 +1,14 @@
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\inve.deps.json
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\inve.runtimeconfig.json
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\inve.runtimeconfig.dev.json
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\inve.dll
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\bin\Debug\netcoreapp2.1\inve.pdb
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.csprojAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.AssemblyInfoInputs.cache
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.AssemblyInfo.cs
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.dll
+C:\Users\Rodolfo\Desktop\0-I Semestre 2021\Especificación y Diseño de Software\Semana 4\inve\inve\obj\Debug\netcoreapp2.1\inve.pdb
